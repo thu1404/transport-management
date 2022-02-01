@@ -1,0 +1,23 @@
+.map-container{
+    padding-left: 25%;
+    
+}
+.sign-form{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    padding: auto;
+    
+    box-shadow: 0px 6px 8px hsl(0, 13%, 23%);
+    
+}
+
+
+.mb-3{
+    
+    padding: 15px;
+}
+
+.submit-button{
+    padding-left: 45%;
+}

@@ -1,0 +1,19 @@
+.sign-form{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    padding: auto;
+    /* position: absolute; */
+    /* text-align-last: center; */
+    box-shadow: 0px 6px 8px hsl(0, 0%, 65%);
+}
+
+.mb-3{
+    /* padding-left: 15px;
+    padding-right: 15px; */
+    padding: 15px;
+}
+.submit-button{
+    /* text-align: center; */
+    padding-left: 45%;
+}
